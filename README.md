@@ -10,7 +10,7 @@ Each project is in its own repository with code and a short description.
 ### Loan Default Prediction – Credit Risk Scoring
 - **Goal:** Predict whether a borrower will default within 12 months.
 - **Tech:** Python, pandas, scikit-learn, LightGBM, cross-validated AUC.
-- **Repo:** https://github.com/YOUR_USERNAME/loan-default-prediction-ml
+- **Repo:** https://github.com/dhanutpak/loan-default-prediction-ml
 
 ---
 
@@ -19,7 +19,7 @@ Each project is in its own repository with code and a short description.
 ### Fashion MNIST – CNN Image Classifier
 - **Goal:** Classify clothing images (10 classes) from the Fashion MNIST dataset.
 - **Tech:** TensorFlow/Keras, CNN, batch normalisation, dropout.
-- **Repo:** https://github.com/YOUR_USERNAME/fashion-mnist-cnn-classifier
+- **Repo:** https://github.com/dhanutpak/fashion-mnist-cnn-classifier
 
 ---
 
@@ -28,7 +28,7 @@ Each project is in its own repository with code and a short description.
 ### Iris – KNN Classifier (Manual Implementation)
 - **Goal:** Implement K-Nearest Neighbours manually and apply it to the Iris dataset.
 - **Tech:** NumPy, pandas, custom KNN, confusion matrix.
-- **Repo:** https://github.com/YOUR_USERNAME/iris-knn-classifier
+- **Repo:** https://github.com/dhanutpak/iris-knn-classifier
 
 ---
 
