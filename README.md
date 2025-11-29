@@ -18,7 +18,7 @@ Each project is in its own repository with code and a short description.
 
 ### Fashion MNIST – CNN Image Classifier
 - **Goal:** Classify clothing images (10 classes) from the Fashion MNIST dataset.
-- **Tech:** TensorFlow/Keras, CNN, batch normalisation, dropout.
+- **Tech:** TensorFlow/Keras, CNN, batch normalisation, dropout, early stopping.
 - **Repo:** https://github.com/dhanutpak/fashion_mnist_cnn_classifier
 
 ---
@@ -27,19 +27,32 @@ Each project is in its own repository with code and a short description.
 
 ### Iris – KNN Classifier (Manual Implementation)
 - **Goal:** Implement K-Nearest Neighbours manually and apply it to the Iris dataset.
-- **Tech:** NumPy, pandas, custom KNN, confusion matrix.
+- **Tech:** NumPy, pandas, custom KNN implementation, confusion matrix.
 - **Repo:** https://github.com/dhanutpak/iris_knn_classifier
 
 ---
 
-## Planned Projects
+## 4. Time Series
 
-These will be added to the portfolio:
+### Stock Price Forecasting – LSTM
+- **Goal:** Forecast the next closing price based on past daily prices.
+- **Tech:** Python, pandas, scikit-learn, TensorFlow/Keras, LSTM, sequence generation.
+- **Repo:** https://github.com/dhanutpak/lstm_stock_forecasting 
 
-4. **Time Series – LSTM Forecasting**  
-   - Example: stock or sales forecasting with LSTM/GRU.
+---
 
-5. **NLP – Sentiment Analysis (IMDb / DistilBERT)**  
-   - Text classification using transformers.
+## 5. Natural Language Processing
 
-Once completed, each project will have its own repository and be linked here.
+### IMDb Sentiment Analysis – DistilBERT
+- **Goal:** Classify IMDb movie reviews as positive or negative.
+- **Tech:** Python, pandas, scikit-learn, Hugging Face Transformers, DistilBERT, Trainer API.
+- **Repo:** https://github.com/dhanutpak/imdb-sentiment-distilbert
+
+---
+
+## 6. Sports Analytics
+
+### Formula 1 Race Points Prediction
+- **Goal:** Predict whether an F1 driver will score points (P1–P10) in a race using pre-race information.
+- **Tech:** Python, pandas, scikit-learn, Random Forest, tabular feature engineering.
+- **Repo:** https://github.com/dhanutpak/f1-race-points-prediction
