@@ -19,7 +19,7 @@ Each project is in its own repository with code and a short description.
 ### Fashion MNIST – CNN Image Classifier
 - **Goal:** Classify clothing images (10 classes) from the Fashion MNIST dataset.
 - **Tech:** TensorFlow/Keras, CNN, batch normalisation, dropout.
-- **Repo:** https://github.com/dhanutpak/fashion-mnist-cnn-classifier
+- **Repo:** https://github.com/dhanutpak/fashion_mnist_cnn_classifier
 
 ---
 
@@ -28,7 +28,7 @@ Each project is in its own repository with code and a short description.
 ### Iris – KNN Classifier (Manual Implementation)
 - **Goal:** Implement K-Nearest Neighbours manually and apply it to the Iris dataset.
 - **Tech:** NumPy, pandas, custom KNN, confusion matrix.
-- **Repo:** https://github.com/dhanutpak/iris-knn-classifier
+- **Repo:** https://github.com/dhanutpak/iris_knn_classifier
 
 ---
 
