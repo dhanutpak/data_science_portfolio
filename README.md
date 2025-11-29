@@ -10,7 +10,7 @@ Each project is in its own repository with code and a short description.
 ### Loan Default Prediction – Credit Risk Scoring
 - **Goal:** Predict whether a borrower will default within 12 months.
 - **Tech:** Python, pandas, scikit-learn, LightGBM, cross-validated AUC.
-- **Repo:** https://github.com/dhanutpak/loan-default-prediction-ml
+- **Repo:** https://github.com/dhanutpak/loan_default_prediction_ml
 
 ---
 
