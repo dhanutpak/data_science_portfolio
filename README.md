@@ -37,7 +37,7 @@ Each project is in its own repository with code and a short description.
 ### Stock Price Forecasting – LSTM
 - **Goal:** Forecast the next closing price based on past daily prices.
 - **Tech:** Python, pandas, scikit-learn, TensorFlow/Keras, LSTM, sequence generation.
-- **Repo:** https://github.com/dhanutpak/lstm_stock_forecasting 
+- **Repo:** https://github.com/dhanutpak/lstm_stock_price_forecast 
 
 ---
 
