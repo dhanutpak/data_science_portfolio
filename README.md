@@ -46,7 +46,7 @@ Each project is in its own repository with code and a short description.
 ### IMDb Sentiment Analysis – DistilBERT
 - **Goal:** Classify IMDb movie reviews as positive or negative.
 - **Tech:** Python, pandas, scikit-learn, Hugging Face Transformers, DistilBERT, Trainer API.
-- **Repo:** https://github.com/dhanutpak/imdb-sentiment-distilbert
+- **Repo:** https://github.com/dhanutpak/imdb_sentiment_distilbert
 
 ---
 
@@ -55,4 +55,4 @@ Each project is in its own repository with code and a short description.
 ### Formula 1 Race Points Prediction
 - **Goal:** Predict whether an F1 driver will score points (P1–P10) in a race using pre-race information.
 - **Tech:** Python, pandas, scikit-learn, Random Forest, tabular feature engineering.
-- **Repo:** https://github.com/dhanutpak/f1-race-points-prediction
+- **Repo:** https://github.com/dhanutpak/f1_race_points_prediction
